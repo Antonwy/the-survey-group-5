@@ -3,6 +3,7 @@ import './App.css';
 
 class App extends Component {
   render() {
+    // ADD YOUR COMPONENTS HERE :
     return (
       <div>
         <p>
